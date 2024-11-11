@@ -2,7 +2,7 @@
 "CSS Grid Master" is a fun, responsive web application showcasing a dynamic grid layout. This project uses HTML and CSS Grid for responsive design and creates visually appealing, interactive zones with various gradient backgrounds and emojis. Perfect for learning CSS Grid and responsive layouts!
 
 ## Demo
-![Landing Page Screenshot](Screenshot 1.jpg, Screenshot 2.jpg)
+![Landing Page Screenshot](Screenshot 1.jpg)
 
 ## Features
 Responsive Design: Uses CSS Grid with auto-fill for flexible column width, ensuring a seamless layout on various screen sizes.
